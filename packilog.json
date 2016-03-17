@@ -2,5 +2,12 @@
     "files":
     [
         "shift_register.sv"
+    ],
+    "tests":
+    [
+        "test_shift_register_default",
+        "test_shift_register_delayed",
+        "test_shift_register_8bit",
+        "test_shift_register_16bit_delayed"
     ]
 }
